@@ -1,2 +1,4 @@
 click
 pylint
+flask
+wtforms
