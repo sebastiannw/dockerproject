@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import click
-from calculator import get_txt_input, get_cmd_input, execute_commands
+from utils import get_txt_input, get_cmd_input, execute_commands
 
 @click.command()
 def hello():
