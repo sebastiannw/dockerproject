@@ -4,8 +4,8 @@ FROM python:3.7.3-stretch
 WORKDIR /app
 
 # Copy source code to working directory
-COPY . app.py /app/
-COPY . calculator.py /app/
+COPY . app.py calculator.py /app/
+
 
 # Install packages from requirements.txt
 # hadolint ignore=DL3013

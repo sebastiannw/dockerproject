@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+
 # Loads sys module needed to read txt input file
 import sys
 
