@@ -1,4 +1,4 @@
-# Lazy Calculator - Docker Project
+# Simple Docker Python Application - Cloud Project 2
 Docker Project for Cloud Computing
 DockerHub repository: https://hub.docker.com/repository/docker/sebastiannw/app
 Try it out: docker pull sebastiannw/app
